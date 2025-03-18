@@ -26,6 +26,11 @@ My Apps may use third-party services that collect information. These typically i
 * Crash reporting tools
 Each third-party service used will be listed in the specific App's App Store listing.
 
+## Device Permissions
+My Apps may require the following device capabilities:
+
+- **Audio**: Audio capabilities are used to provide sound feedback. This is processed entirely on-device and no audio data is recorded or transmitted.
+
 ## Data Storage and Security
 
 Any data collected is stored securely using industry-standard encryption and security measures. Personal data, if collected, is never sold to third parties.
